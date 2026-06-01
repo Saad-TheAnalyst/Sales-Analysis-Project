@@ -17,8 +17,20 @@ Analysis of global sales data using Python, Pandas and Power BI.
 - Which deal size brings most revenue?
 
 ## Key Findings
-- Highest sales month:"Sales peaked in November across multiple years, likely driven by holiday promotions and end-of-year demand, with November 2004 being the highest month at $1,089,048.
-- Top revenue country: The United State generated the most revenue, accounting for 35% of global sales.
-- Best-selling product line: Classic Cars were the strongest product line.
-- Top 10 customers : The largest customers contributed disproportionately to the revenue with the top 1 (Euro Shopping Channel) making 30.87% of the total sale.
-- Deal size impact: Large deal size brought in the heighest revenue, but medium-sized deal were more frequent and stable. 
+## Key Findings
+
+- Sales peaked in November across multiple years, likely 
+  driven by holiday promotions and end-of-year demand, 
+  with November 2004 being the highest month at $1,089,048.
+
+- The United States generated the most revenue, 
+  accounting for 35% of global sales.
+
+- Classic Cars were the strongest performing product line.
+
+- The largest customers contributed disproportionately 
+  to revenue, with the top customer (Euro Shopping Channel) 
+  making up 30.87% of total sales.
+
+- Large deals brought in the highest revenue, but 
+  medium-sized deals were more frequent and stable.
